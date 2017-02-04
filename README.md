@@ -39,6 +39,7 @@ Learning learn-sketch
 - **TEXT** | **T**
 - **Duplicate LAYER** | **ALT** + **DRAG**
 - **Resize IMG PROPORTIONAL** | **ALT** + **SHIFT** + **click**
+- **View ARTBOARD** | **COMMAND** + **.**
 
 
 ## NAVIGATION
@@ -49,3 +50,4 @@ Learning learn-sketch
 - All _sizes_ in **pixels**
 - To **background** with **img** create **MASK**
 - All _functions_ in css have in **sketch**
+- To **formatting, styles** _create_ **styles**
