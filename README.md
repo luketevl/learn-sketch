@@ -6,6 +6,9 @@ Learning learn-sketch
 - http://www.livrariacultura.com.br/p/nao-me-faca-pensar-2590021
 - https://www.shutterstock.com/
 - http://allthefreestock.com/
+- https://thenounproject.com/
+- http://instantlogosearch.com/
+- https://dribbble.com/
 
 # STEPS
 - Briefing
@@ -29,6 +32,8 @@ Learning learn-sketch
 - **Rectangle** | **R**
 - **Oval** | **O**
   - **Circle** | **SHIFT** + **O**
+- **Arounded** | **U**
+- **Vector** | **V**
 
 ## HELPERS
 - **Duplicate element** | **ALT**
@@ -39,7 +44,7 @@ Learning learn-sketch
 - **TEXT** | **T**
 - **Duplicate LAYER** | **ALT** + **DRAG**
 - **Resize IMG PROPORTIONAL** | **ALT** + **SHIFT** + **click**
-
+- **SHOW LAYOUT** | **COMMAND** + **L**
 
 ## NAVIGATION
 - **Drag page** | **SPACE** + **CLICK**
